@@ -41,7 +41,7 @@ CREATE TABLE `reactions` (
 --
 
 INSERT INTO `reactions` (`id`, `video_id`, `name`, `email`, `message`, `date_added`) VALUES
-(1, NULL, 'Pino', 'pino@sesamstraat.nl', 'Dit is de beste Rick Roll ever!', '2024-10-23 07:21:51'),
+(1, NULL, 'Pino', 'pino@sesamstraat.nl', 'Dit is de beste remix ever!', '2024-10-23 07:21:51'),
 (2, NULL, 'Tommy', 'tommy@sesamstraat.nl', 'Deze wil ik de hele dag wel draaien', '2024-10-23 07:21:51'),
 (4, NULL, 'Ieniminie', 'ieniminie@sesamstraat.nl', 'Geweldig dit', '2024-10-23 07:38:24');
 
